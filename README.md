@@ -39,15 +39,6 @@
 
 ---
 
-## What I'm About
-
-- **Ship first, perfect later** — Two revenue-generating apps built and launched as a solo/duo team
-- **AI-native development** — Using OpenAI, Claude, and AI tooling to build faster
-- **Full-stack mobile** — React Native/Expo on the frontend, Supabase + Edge Functions on the backend
-- **Self-taught** — Went from Odin Project exercises to paid App Store products
-
----
-
 ## Tech Stack
 
 | Area | Tools |
@@ -65,19 +56,5 @@
 ## Connect
 
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rasti-najim)
-[![LinkedIn](https://img.shields.io/badge/-Rasti_Aldawoodi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rasti-aldawoodi)
-
-<!-- Add more social links as needed -->
-<!-- [![Twitter](https://img.shields.io/badge/-@yourhandle-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle) -->
-<!-- [![Website](https://img.shields.io/badge/-yoursite.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://yoursite.com) -->
-
----
-
-<details>
-<summary>Random Facts</summary>
-
-- Both apps were shelved after cofounders left — still shipped and made money
-- Went from zero to $300 MRR with AI meal scanning before anyone else was doing it
-- Believe the best way to learn is to ship something real and charge for it
-
-</details>
+[![LinkedIn](https://img.shields.io/badge/-Rasti_Aldawoodi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/raste-aldawoodi)
+[![X](https://img.shields.io/badge/-@Rasti--Najim-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Rasti-Najim)
