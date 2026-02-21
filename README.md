@@ -1,6 +1,6 @@
 # Hi, I'm Rasti 👋
 
-📍 **Based in the US** | 📱 **iOS & Full-Stack Builder** | 🤖 **AI-Powered Apps**
+📍 **New York** | 🤖 **Software Engineer @ [Sant.ai](https://sant.ai)** | 🎓 **Duke CS '24**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -13,7 +13,23 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-> I build mobile apps that people actually pay for. Shipped two iOS apps to the App Store, reached $300 MRR on one of them. Currently exploring what's next.
+> Design(ish) engineer from Iraq, relocated to the US for college. I enjoy creating new things, without the burden of trying to be useful.
+
+---
+
+## Now
+
+- 🧠 Software Engineer at **[Sant.ai](https://sant.ai)** — building at an AI startup in New York
+- 🥩 Previously shipped **[Protein AI](https://github.com/rasti-najim/protein-ai)** to ~$300 MRR on the App Store
+- 🧘 Previously shipped **[Coreflow](https://github.com/rasti-najim/coreflow)** to ~$50 MRR on the App Store
+
+## Experience
+
+- 🤖 **Software Engineer** — Sant.ai
+- 🧪 **Lead Engineer** — Intuition
+- 🔬 **SWE Intern** — Duke Innovation Co-Lab
+- 📊 **SWE Intern** — Plotr
+- 🎓 **B.A. Computer Science** — Duke University
 
 ---
 
@@ -55,6 +71,7 @@
 
 ## Connect
 
+[![Website](https://img.shields.io/badge/-rastialdawoodi.com-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://rastialdawoodi.com)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rasti-najim)
 [![LinkedIn](https://img.shields.io/badge/-Rasti_Aldawoodi-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/raste-aldawoodi)
-[![X](https://img.shields.io/badge/-@Rasti--Najim-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Rasti-Najim)
+[![X](https://img.shields.io/badge/-@Rasti__Najim-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Rasti_Najim)
