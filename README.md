@@ -1,6 +1,6 @@
 # Hi, I'm Rasti 👋
 
-📍 **New York** | 🤖 **Software Engineer @ [Sant.ai](https://sant.ai)** | 🎓 **Duke CS '24**
+📍 **New York** | 🤖 **Software Engineer @ [Sant.ai](https://sant.ai)** | 🎓 **Duke CS '25**
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -13,7 +13,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
-> Design(ish) engineer from Iraq, relocated to the US for college. I enjoy creating new things, without the burden of trying to be useful.
+> Design engineer from Iraq, relocated to the US for college. I enjoy creating new things, without the burden of trying to be useful.
 
 ---
 
