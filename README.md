@@ -39,8 +39,12 @@
 
 - 🧘 **[Coreflow](https://github.com/rasti-najim/coreflow)** — Personal pilates studio app. Guided workouts, progress tracking, and streak-based habit building. Reached **~$50 MRR** before discontinuing. React Native + Expo + Supabase.
 
+- 💘 **[Matchmaker](https://github.com/rasti-najim/matchmaker)** — SwiftUI dating app for college students. One curated match per cycle instead of endless swipes, combining a personality compatibility score with mutual attraction ratings. `.edu`-verified, anonymous crush invites, scheduled match drops. SwiftUI + Supabase (Edge Functions, Realtime, Postgres) + Apple Sign-In. ([Demo](https://www.loom.com/share/6c89b5ebfc004f8abf81000713ddd5b9))
+
 ## Other Projects
 
+- 🤖 **[Kurama (coding-agent)](https://github.com/rasti-najim/coding-agent)** — Minimal coding agent CLI powered by Claude. Conversational REPL with `read_file`, `list_files`, `bash`, `edit_file`, and `search_files` tools. Install with `uv tool install kurama`.
+- ☁️ **[Sky](https://github.com/rasti-najim/Sky)** — iOS messaging app that enforces in-the-moment conversations.
 - 🏨 **[Hotman Dashboard](https://github.com/rasti-najim/hotman-dashboard)** — Hotel management dashboard built in React ([Live](https://adoring-allen-3dd0f8.netlify.app))
 - 🏨 **[Hotman Management](https://github.com/rasti-najim/hotman-management)** — Hotel management system in React ([Live](https://thirsty-leakey-3ad401.netlify.app))
 - 🐕 **[Image Classifier](https://github.com/rasti-najim/image-classifier)** — ML image classifier that identifies dog breeds (Python + fastai)
@@ -62,7 +66,7 @@
 | **Mobile** | React Native, Expo, Swift, SwiftUI |
 | **Frontend** | React, Next.js, TypeScript |
 | **Backend** | Supabase, Node.js, Express, PostgreSQL |
-| **AI/ML** | OpenAI API (Vision + Text), Python, fastai |
+| **AI/ML** | OpenAI API (Vision + Text), Anthropic Claude API, Python, fastai |
 | **Infra** | Supabase Edge Functions (Deno), Vercel, Netlify |
 | **Monetization** | Superwall, App Store Connect |
 | **Analytics** | PostHog |
